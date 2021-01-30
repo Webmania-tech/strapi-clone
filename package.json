@@ -1,0 +1,31 @@
+{
+  "name": "strapi-clone",
+  "version": "1.0.0",
+  "description": "dependancies for strapi clone",
+  "main": "index.js",
+  "scripts": {
+    "prefix": "postcss css/main.css --use autoprefixer -d css/prefixed/",
+    "sass": "sass --watch scss/main.scss:css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webmania-tech/strapi-clone.git"
+  },
+  "keywords": [
+    "strapi",
+    "clone",
+    "html",
+    "css",
+    "scss",
+    "frontend",
+    "javascript",
+    "js",
+    "php"
+  ],
+  "author": "Anna Ezzarani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Webmania-tech/strapi-clone/issues"
+  },
+  "homepage": "https://github.com/Webmania-tech/strapi-clone#readme"
+}
