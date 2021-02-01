@@ -1,1 +1,30 @@
+.btn {
+  font-family: $poppins;
+  font-size: $text-small;
+  font-weight: 500;
+  line-height: 1;
+  color: inherit;
+  position: relative;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-block;
+  padding: 18px 40px;
+  border: none;
+  text-decoration: none;
+  text-align: center;
+  outline: none;
+  width: auto;
+  box-sizing: border-box;
+  transform: translateZ(1000px);
+  border-radius: 8px;
+}
 
+.btn-purple {
+  color: #fff;
+  background: $heliotrope-purple;
+}
+
+.btn-yellow {
+  color: $jacksons-purple;
+  background: $golden-yellow;
+}

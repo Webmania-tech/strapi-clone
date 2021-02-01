@@ -1,1 +1,8 @@
-
+.wrapper {
+  width: 80%;
+  max-width: 1200%;
+  margin: 0 auto;
+  @include breakpoint($md) {
+    width: 68%;
+  }
+}
