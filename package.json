@@ -4,7 +4,6 @@
   "description": "dependancies for strapi clone",
   "main": "index.js",
   "scripts": {
-    "prefix": "postcss css/main.css --use autoprefixer -d css/prefixed/",
     "sass": "sass --watch scss/main.scss:css/main.css"
   },
   "repository": {
