@@ -1,1 +1,21 @@
+/* Only imports in this file */
 
+// Utilities
+@import "1-utilities/config.scss";
+
+// Base
+@import "2-base/base.scss";
+@import "2-base/helpers.scss";
+@import "2-base/fonts.scss";
+
+// Layout
+@import "3-layout/footer.scss";
+@import "3-layout/header.scss";
+
+// Components
+@import "4-components/buttons.scss";
+@import "4-components/cards.scss";
+
+// Pages
+@import "4-components/buttons.scss";
+@import "4-components/cards.scss";
